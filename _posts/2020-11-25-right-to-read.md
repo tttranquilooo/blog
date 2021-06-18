@@ -2,7 +2,9 @@
 title: The Right to Read
 license: CC-BY-NC-ND-4.0
 author: Richard Stallman
-tags: SCI-FI
+tags: 
+- Free Software
+- Fiction
 key: 20201125
 ---
 
