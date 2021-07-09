@@ -2,7 +2,7 @@
 title: 看愛死機產生的廢話
 license: CC-BY-NC-ND-4.0
 author: Tranquilo Chan
-tags: 雜思
+tags: 一地雞毛
 key: 20210519
 ---
 
