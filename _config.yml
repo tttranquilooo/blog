@@ -202,11 +202,20 @@ exclude:
   - /vendor
 
 ## => Collections
+##############################
 collections:
-  - tools:
+  web-tools:
     output: true
+    layout: article
+    sharing: true
+    license: true
+    aside:
+      toc: true
+    show_subscribe: true
+    pageview: true
 
 ## => Default configurations for all posts
+##############################
 defaults:
   - scope:
       path: ""
@@ -219,18 +228,6 @@ defaults:
         toc: true
       show_subscribe: true
       pageview: true
-  - scope:
-      path: ""
-      type: tools
-    values:
-      layout: article
-      sharing: true
-      license: true
-      aside:
-        toc: true
-      show_subscribe: true
-      pageview: true
-
 
 ## => Plugins
 ##############################
