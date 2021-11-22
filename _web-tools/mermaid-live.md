@@ -5,7 +5,7 @@ layout: article
 cover: /assets/images/logo/logo-mermaid.png
 ---
 
-Edit, preview and share mermaid charts/diagrams by [mermaid-js](https://github.com/mermaid-js).
+📑Edit, preview and share mermaid charts/diagrams by [mermaid-js](https://github.com/mermaid-js).
 
 <a class="button button--primary button--pill" href="https://mermaid.tttranquilooo.com">Start in new tab</a>
 
