@@ -1,5 +1,5 @@
 ---
 layout: article
-title: Hello
+title: 你好
 ---
-<center>Hello, nice to meet you!😀</center>
+<center>你好，歡迎來到陳定慧的個人網站!😀</center>

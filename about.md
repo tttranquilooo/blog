@@ -26,6 +26,6 @@ titles:
 key: page-about
 ---
 
-Personal blog of Tranquilo Chan. 
+陳定慧的個人網站，和名字不同的是他其實很吵。:)
 
-<small>It will be a noisy place :)</small>
+Personal site of Tranquilo Chen. It will be a noisy place! :)
