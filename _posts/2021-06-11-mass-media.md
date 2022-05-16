@@ -1,6 +1,6 @@
 ﻿---
 title: 無題01
-license: CC-BY-NC-ND-4.0
+license: CC-BY-NC-4.0
 author: Tranquilo Chan
 tags: 一地雞毛
 key: 20210611

@@ -1,6 +1,6 @@
 ---
 title: The Right to Read
-license: CC-BY-NC-ND-4.0
+license: CC-BY-NC-4.0
 author: Richard Stallman
 tags: 
 - Free Software

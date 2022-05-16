@@ -1,6 +1,6 @@
 ﻿---
 title: 廢話幾段
-license: CC-BY-NC-ND-4.0
+license: CC-BY-NC-4.0
 author: Tranquilo Chan
 tags: 囈語
 key: 20210627
