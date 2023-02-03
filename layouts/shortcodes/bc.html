@@ -1,0 +1,8 @@
+{{ with .Get "track" }}
+{{ $track := . }}
+<iframe style="border: 0; width: 100%; height: 120px;"
+    src="https://bandcamp.com/EmbeddedPlayer/size=large/bgcol=1e202b/linkcol=6190e8/tracklist=false/artwork=small/track={{ safeURL $track }}/transparent=true/"
+    seamless>
+    {{ end }}
+</iframe>
+<div style="display: none;">{{ .Inner }}</div>
