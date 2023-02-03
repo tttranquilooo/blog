@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/gitalk/1.8.0/gitalk.css">
 <script src="https://cdn.bootcdn.net/ajax/libs/gitalk/1.8.0/gitalk.min.js"></script>
 
-{{ $id := replace (delimit (first 1 (split (string .Date) " ")) "") "-" "" }}
+{{ $id := replace (substr (string .Date) 0 10) "-" "" }}
 <script>
     const gitalk = new Gitalk({
         clientID: "bf98b0840ac8c8310fc9",
